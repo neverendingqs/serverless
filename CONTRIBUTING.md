@@ -2,7 +2,7 @@
 
 We are always looking to promote good contributors to be maintainers and provide them a front-row seat to serverless innovation.
 
-If you would like to be a maintainer for the [Serverless Framework](https://github.com/serverless/serverless) or any of our plugins, please get started with making code contributions and engaging with open issues/PRs. Also, please reach out to any of [Serverless organization](https://github.com/serverless) members to express your interest.
+If you would like to be a maintainer for the [Serverless Framework](https://github.com/serverless/serverless) or any of our plugins, please get started with making code contributions and engaging with open issues/PRs. Also, please reach out to any of the [Serverless organization](https://github.com/serverless) members to express your interest.
 
 We'd love to collaborate closely with amazing developers as we drive the development of this open technology into the future.
 
